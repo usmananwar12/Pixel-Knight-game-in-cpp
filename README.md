@@ -51,6 +51,8 @@ To play Block Guardian:
 
 <img width="211" alt="image" src="https://github.com/usmananwar12/Pixel-Knight-game-in-cpp/assets/111992988/81712ff4-67f1-487e-9a88-60507b2be1cd">
 
+
+
 <img width="454" alt="image" src="https://github.com/usmananwar12/Pixel-Knight-game-in-cpp/assets/111992988/2c497988-bbdc-4f8a-8b74-aeb6281d17a4">
 
 <img width="433" alt="image" src="https://github.com/usmananwar12/Pixel-Knight-game-in-cpp/assets/111992988/c0696c84-e78f-4db4-872c-57a4b64303c9">
